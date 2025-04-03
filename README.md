@@ -61,5 +61,4 @@
 <p>Feel free to download my <a href="Celestine-Wanjiru.pdf" target="_blank">CV/Resume</a> for more details about my background and skills.</p>
 
 <h2>⚙️ How to View the Portfolio</h2>
-<p>You can view my portfolio by opening the <code>index.html</code> file in a browser. If you want to deploy it online, you can upload it to any static site hosting provider like GitHub Pages or Netlify.</p>
-
+<a href="https://celestinewanjiru-portfolio.netlify.app"> Click Here </a>
